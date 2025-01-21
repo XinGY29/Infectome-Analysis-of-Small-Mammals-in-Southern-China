@@ -1,0 +1,284 @@
+species	family	Type	Host_Type	isExit
+Rodent astrovirus 1	Astroviridae	RNA_Virus	Mammal-related	Exit
+Rodent astrovirus 2	Astroviridae	RNA_Virus	Mammal-related	Exit
+Guangdong Bandicota indica astrovirus	Astroviridae	RNA_Virus	Mammal-related	Unexit
+Rodent astrovirus 3	Astroviridae	RNA_Virus	Mammal-related	Exit
+Guangdong permutotetra-like-virus 1	Permutotetraviridae	RNA_Virus	Mammal-unrelated	Unexit
+Norway rat pestivirus	Flaviviridae	RNA_Virus	Mammal-related	Exit
+Rodent pegivirus	Flaviviridae	RNA_Virus	Mammal-related	Exit
+Rodent pegivirus	Flaviviridae	RNA_Virus	Mammal-related	Exit
+Wenzhou Apodemus agrarius hepacivirus 1	Flaviviridae	RNA_Virus	Mammal-related	Exit
+Rodent coronavirus	Coronaviridae	RNA_Virus	Mammal-related	Exit
+Betacoronavirus 1	Coronaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong Rattus norvegicus arterivirus virus	Arteriviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong Rattus norvegicus arterivirus virus 2	Arteriviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong Bandicota indica arterivirus virus	Arteriviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent arterivirus 1	Arteriviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent arterivirus 2	Arteriviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong toti-like virus 1	Totiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong toti-like virus 2	Totiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong toti-like virus 3	Totiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong toti-like virus 4	Totiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong toti-like virus 5	Totiviridae	RNA_Virus	Mammal-unrelated	Exit
+Tomato brown rugose fruit virus	Virgaviridae	RNA_Virus	Mammal-unrelated	Exit
+Zhejiang betaflexivirus 1	Betaflexiviridae	RNA_Virus	Mammal-unrelated	Exit
+Sweet potato chlorotic fleck virus	Betaflexiviridae	RNA_Virus	Mammal-unrelated	Exit
+Rat hepatitis E virus	Hepeviridae	RNA_Virus	Mammal-related	Exit
+Rat hepatitis E virus	Hepeviridae	RNA_Virus	Mammal-related	Exit
+Bastrovirus Rat	Astroviridae	RNA_Virus	Mammal-unrelated	Exit
+Guangdong bastrovirus	Astroviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong rodent orbivirus	Sedoreoviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orbivirus	Sedoreoviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong Sobemo-like virus	Solemoviridae	RNA_Virus	Mammal-unrelated	Unexit
+Beilong virus	Paramyxoviridae	RNA_Virus	Mammal-related	Exit
+Guangdong mono-like virus	Mononegavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong narna-like virus 1	Narnaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong narna-like virus 2	Narnaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong narna-like virus 3	Narnaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong narna-like virus 4	Narnaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong narna-like virus 5	Narnaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong narna-like virus 6	Narnaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong mito-like virus 1	Mitoviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong mito-like virus 2	Mitoviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong mito-like virus 3	Mitoviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong mito-like virus 4	Mitoviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong mito-like virus 5	Mitoviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong mito-like virus 6	Mitoviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong mito-like virus 7	Mitoviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong mito-like virus 8	Mitoviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong mito-like virus 9	Mitoviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong mito-like virus 10	Mitoviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong mito-like virus 11	Mitoviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 1	Blumeviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 2	Fiersviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 3	Fiersviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 4	Blumeviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 5	Blumeviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 6	Blumeviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 7	Blumeviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 8	Fiersviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 9	Fiersviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 10	Fiersviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 11	Fiersviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 12	Fiersviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 13	Fiersviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 14	Fiersviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 15	Fiersviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 16	Fiersviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong levi-like virus 17	Fiersviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong phenuiviridae-like virus	Phenuiviridae	RNA_Virus	Mammal-unrelated	Exit
+Wnezhou virus	Arenaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong bunya-like virus 2	Bunyavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong bunya-like virus 1	Bunyavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong bunya-like virus 4	Bunyavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong bunya-like virus 3	Bunyavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Orthohantavirus seoulense	Hantaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong tombus-like virus 1	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 2	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 3	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 4	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 5	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 6	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 7	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 8	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 9	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 10	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 11	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 12	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 13	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 14	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 15	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 16	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 17	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong tombus-like virus 18	Tombusviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong noda-like virus 1	Nodaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong noda-like virus 2	Nodaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong noda-like virus 3	Nodaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong noda-like virus 4	Nodaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong noda-like virus 5	Nodaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong noda-like virus 6	Nodaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong noda-like virus 7	Nodaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong noda-like virus 8	Nodaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong rodent orthopicobirnavirus 1	Picobirnaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong rodent orthopicobirnavirus 2	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 3	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 4	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 5	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Marmot picobirnavirus	Picobirnaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong rodent orthopicobirnavirus 7	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 8	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 9	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 10	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 11	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 12	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 13	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 14	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 15	Picobirnaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong rodent orthopicobirnavirus 16	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Rat picobirnavirus	Picobirnaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong rodent orthopicobirnavirus 18	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 19	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 20	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 21	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 22	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 23	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 24	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Fox fecal picobirnavirus	Picobirnaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong rodent orthopicobirnavirus 26	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 27	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 28	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 29	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 30	Picobirnaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong rodent orthopicobirnavirus 31	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 32	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 33	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Marmot picobirnavirus	Picobirnaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong rodent orthopicobirnavirus 35	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 36	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 37	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 38	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Simian picobirnavirus	Picobirnaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong rodent orthopicobirnavirus 40	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent orthopicobirnavirus 41	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent picornabirus 1	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent picornabirus 2	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent picornabirus 3	Picobirnaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong rodent picornabirus 4	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent picornabirus 5	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent picornabirus 6	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Marmot picobirnavirus	Picobirnaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong rodent picornabirus 8	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent picornabirus 9	Picobirnaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong rodent picornabirus 10	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent picornabirus 11	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rodent picornabirus 12	Picobirnaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong partiti-like virus 1	Partitiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong partiti-like virus 2	Partitiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong partiti-like virus 3	Partitiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong partiti-like virus 4	Partitiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong partiti-like virus 5	Partitiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong partiti-like virus 6	Partitiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong partiti-like virus 7	Partitiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong partiti-like virus 8	Partitiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong  partiti-like virus 9	Partitiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Lysoka partiti-like virus	Partitiviridae	RNA_Virus	Mammal-unrelated	Exit
+Guangdong partiti-like virus 11	Partitiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong partiti-like virus 12	Partitiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong partiti-like virus 13	Partitiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong partiti-like virus 14	Partitiviridae	RNA_Virus	Mammal-unrelated	Exit
+Guangdong partiti-like virus 15	Partitiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong picorna-like virus 1	Dicistroviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong picorna-like virus 2	Dicistroviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong picorna-like virus 3	Dicistroviridae	RNA_Virus	Mammal-unrelated	Unexit
+Wuhan insect virus 33	Dicistroviridae	RNA_Virus	Mammal-unrelated	Exit
+Guangdong picorna-like virus 5	Picornavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong picorna-like virus 6	Picornavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong picorna-like virus 7	Picornavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong picorna-like virus 8	Picornaviridae	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong picorna-like virus 9	Picornavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong picorna-like virus 10	Picornavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong picorna-like virus 11	Picornavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong picorna-like virus 12	Picornavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong picorna-like virus 13	Polycipiviridae	RNA_Virus	Mammal-unrelated	Unexit
+Mischivirus E	Picornaviridae	RNA_Virus	Mammal-related	Exit
+Hunnivirus A	Picornaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong dicipi-like virus	Picornaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong rosa-like virus	Picornaviridae	RNA_Virus	Mammal-related	Unexit
+Murine kobuvirus	Picornaviridae	RNA_Virus	Mammal-related	Exit
+Rabovirus A	Picornaviridae	RNA_Virus	Mammal-related	Exit
+Parabovirus A	Picornaviridae	RNA_Virus	Mammal-related	Exit
+Guangdong rodent picorna-like virus 14	Picornaviridae	RNA_Virus	Mammal-related	Unexit
+Guangdong parechovirus	Picornaviridae	RNA_Virus	Mammal-related	Unexit
+Norwalk virus	Caliciviridae	RNA_Virus	Mammal-related	Exit
+Guangdong picorna-like virus 15	Picornavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong picorna-like virus 16	Picornavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Guangdong picorna-like virus 17	Picornavirales_Unclassified	RNA_Virus	Mammal-unrelated	Unexit
+Circovirus canine	Circoviridae	DNA_Virus	Mammal-unrelated	Exit
+Guangdong Suncus murinus circovirus 1	Circoviridae	DNA_Virus	Mammal-unrelated	Unexit
+Guangdong Suncus murinus circovirus 2	Circoviridae	DNA_Virus	Mammal-unrelated	Unexit
+Calfel virus	Circoviridae	DNA_Virus	Mammal-unrelated	Exit
+Chicken anemia virus	Anelloviridae	DNA_Virus	Mammal-unrelated	Exit
+Guangdong rodent aleptorquevirus	Anelloviridae	DNA_Virus	Mammal-related	Exit
+Guangdong rodent aleptorquevirus	Anelloviridae	DNA_Virus	Mammal-related	Exit
+Guangdong rodent aleptorquevirus	Anelloviridae	DNA_Virus	Mammal-related	Exit
+Guangdong rodent aleptorquevirus	Anelloviridae	DNA_Virus	Mammal-related	Exit
+Guangdong rodent aleptorquevirus	Anelloviridae	DNA_Virus	Mammal-related	Exit
+Guangdong rodent anellovirus 3	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 3	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 3	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 3	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 3	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 3	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 3	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 3	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 3	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 3	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 3	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 3	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 3	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent torque teno virus 1	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent torque teno virus 1	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent torque teno virus 1	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent torque teno virus 1	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 2	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 2	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 2	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 2	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 1	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent anellovirus 1	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Rodent torque teno virus 3	Anelloviridae	DNA_Virus	Mammal-related	Exit
+Rodent torque teno virus 3	Anelloviridae	DNA_Virus	Mammal-related	Exit
+Rodent torque teno virus 3	Anelloviridae	DNA_Virus	Mammal-related	Exit
+Guangdong rodent torque teno virus 3	Anelloviridae	DNA_Virus	Mammal-related	Unexit
+Rat minute virus 2a	Parvoviridae	DNA_Virus	Mammal-related	Exit
+Rat parvovirus 1	Parvoviridae	DNA_Virus	Mammal-related	Exit
+Porcine bocavirus	Parvoviridae	DNA_Virus	Mammal-related	Exit
+Guangdong rodent dependoparvovirus 1	Parvoviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent dependoparvovirus 2	Parvoviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent dependoparvovirus 3	Parvoviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent dependoparvovirus 4	Parvoviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent parvo-like virus	Parvoviridae	DNA_Virus	Mammal-unrelated	Unexit
+Brevihamaparvovirus dipteran 1	Parvoviridae	DNA_Virus	Mammal-unrelated	Exit
+Rat parvovirus 2	Parvoviridae	DNA_Virus	Mammal-related	Exit
+Guangdong rodent chaphamaparvovirus 2	Parvoviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong rodent chaphamaparvovirus 3	Parvoviridae	DNA_Virus	Mammal-related	Unexit
+Guangdong murine mastadenovirus 2	Adenoviridae	DNA_Virus	Mammal-related	Exit
+Guangdong rodent mastadenovirus 1	Adenoviridae	DNA_Virus	Mammal-related	Exit
+Deer mastadenovirus B	Adenoviridae	DNA_Virus	Mammal-related	Unexit
+Bartonella kosoyi	Bartonellaceae	Bac	Mammal-related	Exit
+Bartonella sp	Bartonellaceae	Bac	Mammal-related	Exit
+Chlamydia muridarum	Chlamydiaceae	Bac	Mammal-related	Exit
+Collinsella aerofaciens	Coriobacteriaceae	Bac	Mammal-related	Exit
+Desulfovibrio piger	Desulfovibrionaceae	Bac	Mammal-related	Exit
+Klebsiella variicola	Enterobacteriaceae	Bac	Mammal-related	Exit
+Angiostrongylus cantonensis	Ancylostomatidae	Euk	Mammal-related	Exit
+Babesia microti	Babesiidae	Euk	Mammal-related	Exit
+Brachylaima sp	Brachylaimidae	Euk	Mammal-related	Unexit
+Chilomastix sp	Retortamonadidae	Euk	Mammal-related	Unexit
+Cryptosporidium ubiquitum	Cryptosporidiidae	Euk	Mammal-related	Exit
+Eimeria dispersa	Eimeriidae	Euk	Mammal-related	Exit
+Eimeria falciformis	Eimeriidae	Euk	Mammal-related	Exit
+Giardia sp1	Hexamitidae	Euk	Mammal-related	Unexit
+Giardia sp3	Hexamitidae	Euk	Mammal-related	Unexit
+Hepatozoon sp	Hepatozoidae	Euk	Mammal-related	Unexit
+Hypotrichomonas	Hypotrichomonadidae	Euk	Mammal-related	Exit
+Monocercomonoides	Oxymonadida_Unclassified	Euk	Mammal-related	Unexit
+Nippostrongylus brasiliensis	Ancylostomatidae	Euk	Mammal-related	Exit
+Oryza sativa	Poaceae	Euk	Mammal-related	Exit
+Oxyurida sp	Oxyuridae	Euk	Mammal-related	Unexit
+Plagiorchis multiglandularis	Schistosomatidae	Euk	Mammal-related	Exit
+Pneumocystis carinii	Pneumocystaceae	Euk	Mammal-related	Exit
+Pneumocystis murina	Pneumocystaceae	Euk	Mammal-related	Exit
+Pneumocystis sus	Pneumocystaceae	Euk	Mammal-related	Unexit
+Pneumocystis wakefieldiae	Pneumocystaceae	Euk	Mammal-related	Exit
+Raillietina sp	Davaineidae	Euk	Mammal-related	Unexit
+Spironucleus sp	Hexamitidae	Euk	Mammal-related	Unexit
+Spironucleus sp2	Hexamitidae	Euk	Mammal-related	Unexit
+Spironucleus sp3	Hexamitidae	Euk	Mammal-related	Unexit
+Spironucleus sp4	Hexamitidae	Euk	Mammal-related	Unexit
+Spironucleus sp5	Hexamitidae	Euk	Mammal-related	Unexit
+Strongyloides ratti	Strongyloididae	Euk	Mammal-related	Exit
+Strongyloides stercoralis	Strongyloididae	Euk	Mammal-related	Exit
+Strongyloides venezuelensis	Strongyloididae	Euk	Mammal-related	Exit
+Tritrichomonas sp	Tritrichomonadidae	Euk	Mammal-related	Unexit
+Trypanosoma lewis	Trypanosomatidae	Euk	Mammal-related	Exit
