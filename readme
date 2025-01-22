@@ -1,2 +1,7 @@
 Infectome-Analysis-of-Small-Mammals-in-Southern-China
+This repository contains codes and data of the manuscript "Xin et al. (2025) Infectome Analysis of Small Mammals in Southern China Reveals Ecological Associations and Emerging Threats from Diverse Pathogens"
 
+Run
+To reproduce the statistical analyses in our study, pls run the R codes in script folder. each script creat one figure of the paper
+all output were stored in output folder
+due to the huge matrix the figure5.R runs more then one hour in a laptop with AMD Ryzen 7 6800U and 16G RAM.
