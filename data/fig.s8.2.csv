@@ -1,0 +1,78 @@
+"","species","Type","Positive.Rate."
+"1","Angiostrongylus cantonensis","Eukaryote",7.570977918
+"2","Babesia microti","Eukaryote",0.157728707
+"3","Bartonella kosoyi","Bacteria",4.100946372
+"4","Bartonella sp","Bacteria",1.892744479
+"5","Beilong virus","RNA Virus",1.41955836
+"6","Betacoronavirus HKU24","RNA Virus",4.889589905
+"7","Brachylaima sp","Eukaryote",1.261829653
+"8","Chilomastix sp","Eukaryote",0.315457413
+"9","Chlamydia muridarum","Bacteria",2.365930599
+"10","Collinsella aerofaciens","Bacteria",0.94637224
+"11","Cryptosporidium ubiquitum","Eukaryote",1.41955836
+"12","Deer mastadenovirus B","DNA Virus",0.315457413
+"13","Eimeria dispersa","Eukaryote",0.47318612
+"14","Eimeria falciformis","Eukaryote",1.41955836
+"15","Giardia sp1","Eukaryote",2.681388013
+"16","Giardia sp3","Eukaryote",0.47318612
+"17","Guangdong Bandicota indica arterivirus","RNA Virus",0.157728707
+"18","Guangdong Bandicota indica astrovirus","RNA Virus",0.630914826
+"19","Guangdong dicipi-like virus","RNA Virus",0.788643533
+"20","Guangdong murine mastadenovirus 2","DNA Virus",1.41955836
+"21","Guangdong parechovirus","RNA Virus",0.157728707
+"22","Guangdong Rattus norvegicus arterivirus","RNA Virus",0.788643533
+"23","Guangdong Rattus norvegicus arterivirus 2","RNA Virus",1.261829653
+"24","Guangdong rodent aleptorquevirus","DNA Virus",3.470031546
+"25","Guangdong rodent arterivirus 1","RNA Virus",9.148264984
+"26","Guangdong rodent arterivirus 2","RNA Virus",2.050473186
+"27","Guangdong rodent chaphamaparvovirus 3","DNA Virus",0.157728707
+"28","Guangdong rodent dependoparvovirus 1","DNA Virus",2.523659306
+"29","Guangdong rodent dependoparvovirus 2","DNA Virus",0.157728707
+"30","Guangdong rodent dependoparvovirus 3","DNA Virus",0.157728707
+"31","Guangdong rodent dependoparvovirus 4","DNA Virus",1.261829653
+"32","Guangdong rodent mastadenovirus 1","DNA Virus",1.104100946
+"33","Guangdong rodent orbivirus","RNA Virus",1.104100946
+"34","Guangdong rodent picorna-like virus 14","RNA Virus",0.47318612
+"35","Guangdong rosa-like virus","RNA Virus",1.261829653
+"36","Hepatozoon sp","Eukaryote",1.104100946
+"37","Hunnivirus A","RNA Virus",1.892744479
+"38","Hypotrichomonas","Eukaryote",0.788643533
+"39","Klebsiella variicola","Bacteria",1.577287066
+"40","Mischivirus E","RNA Virus",4.100946372
+"41","Monocercomonoides","Eukaryote",0.315457413
+"42","Murine kobuvirus","RNA Virus",2.996845426
+"43","Nippostrongylus brasiliensis","Eukaryote",3.943217666
+"44","Norwalk virus","RNA Virus",0.788643533
+"45","Norway rat pestivirus","RNA Virus",4.258675079
+"46","Oxyurida sp","Eukaryote",0.94637224
+"47","Parabovirus A","RNA Virus",1.577287066
+"48","Plagiorchis multiglandularis","Eukaryote",0.157728707
+"49","Pneumocystis carinii","Eukaryote",3.470031546
+"50","Pneumocystis murina","Eukaryote",1.104100946
+"51","Pneumocystis sus","Eukaryote",0.47318612
+"52","Pneumocystis wakefieldiae","Eukaryote",8.517350158
+"53","Porcine bocavirus","DNA Virus",5.520504732
+"54","Rabovirus A","RNA Virus",0.630914826
+"55","Raillietina sp","Eukaryote",0.315457413
+"56","Rat hepatitis E virus","RNA Virus",8.990536278
+"57","Rat minute virus 2a","DNA Virus",24.92113565
+"58","Rat parvovirus 1","DNA Virus",0.315457413
+"59","Rat parvovirus 2","DNA Virus",0.315457413
+"60","Rodent astrovirus 1","RNA Virus",2.839116719
+"61","Rodent astrovirus 2","RNA Virus",0.788643533
+"62","Rodent astrovirus 3","RNA Virus",8.044164038
+"63","Rodent coronavirus","RNA Virus",0.47318612
+"64","Rodent pegivirus","RNA Virus",2.365930599
+"65","Seoul orthohantavirus","RNA Virus",3.470031546
+"66","Spironucleus sp","Eukaryote",0.630914826
+"67","Spironucleus sp2","Eukaryote",0.157728707
+"68","Spironucleus sp3","Eukaryote",0.157728707
+"69","Spironucleus sp4","Eukaryote",0.315457413
+"70","Spironucleus sp5","Eukaryote",0.315457413
+"71","Strongyloides ratti","Eukaryote",3.154574132
+"72","Strongyloides stercoralis","Eukaryote",1.577287066
+"73","Strongyloides venezuelensis","Eukaryote",1.892744479
+"74","Tritrichomonas sp","Eukaryote",5.362776025
+"75","Trypanosoma lewis","Eukaryote",4.416403785
+"76","Wenzhou Apodemus agrarius hepacivirus 1","RNA Virus",3.627760252
+"77","Wenzhou mammarenavirus","RNA Virus",8.675078864
