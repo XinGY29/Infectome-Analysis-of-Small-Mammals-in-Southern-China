@@ -1,0 +1,10 @@
+"","name","x","y","circular","Type","Name","PathogensType","shownames","color","degree","size",".ggraph.orig_index",".ggraph.index","point.type","new_x","new_y"
+"1","Bandicota indica",4.62811264612924,2.43643339495397,FALSE,"Host","Bandicota indica","Bandicota indica","Bandicota indica","#DE7833",20,13.4164078649987,1,1,"Rodentia",98.9,42.1
+"2","Berylmys bowersi",4.12858658866834,0.861566949606168,FALSE,"Host","Berylmys bowersi","Berylmys bowersi","Berylmys bowersi","#912C2C",2.5,4.74341649025257,9,9,"Rodentia",92.6,15.6
+"3","Mus caroli",3.58310829929675,0.570287895843565,FALSE,"Host","Mus caroli","Mus caroli","Mus caroli","#F2BB6B",1,3,8,8,"Rodentia",85.7,10.4
+"4","Niviventer lotipes",6,5,FALSE,"Host","Niviventer lotipes","Niviventer lotipes","Niviventer lotipes","#C2ABC8",0.5,2.12132034355964,6,6,"Rodentia",91.5,77.8
+"5","Rattus andamanensis",4.16598911664617,1.96919323733902,FALSE,"Host","Rattus andamanensis","Rattus andamanensis","Rattus andamanensis","#329845",8.5,8.74642784226795,7,7,"Rodentia",92.2,33.6
+"6","Rattus losea",3.82006468846814,2.58135731348907,FALSE,"Host","Rattus losea","Rattus losea","Rattus losea","#AED185",12,10.3923048454133,2,2,"Rodentia",83.1,41.7
+"7","Rattus norvegicus",3.57119706377168,3.5019712698901,FALSE,"Host","Rattus norvegicus","Rattus norvegicus","Rattus norvegicus","#B43970",23.5,14.543039572249,3,3,"Rodentia",76.1,56.4
+"8","Rattus tanezumi",2.93196422990562,2.83876803280015,FALSE,"Host","Rattus tanezumi","Rattus tanezumi","Rattus tanezumi","#A695BD",20.5,13.5830777072061,4,4,"Rodentia",66.6,44.1
+"9","Suncus murinus",1.31892590402002,1.36445201187613,FALSE,"Host","Suncus murinus","Suncus murinus","Suncus murinus","#43978F",7.5,8.21583836257749,5,5,"Eulipoyphla",41.7,20

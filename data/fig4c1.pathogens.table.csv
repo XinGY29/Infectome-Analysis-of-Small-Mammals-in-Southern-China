@@ -1,0 +1,73 @@
+"","name","x","y","circular","Type","Name","PathogensType","shownames","color","degree","size",".ggraph.orig_index",".ggraph.index","point.type","new_x","new_y"
+"1","Angiostrongylus cantonensis",2.6,1.8,FALSE,"Eukaryote","Eukaryote","Cross-order transmission","Angiostrongylus cantonensis","#ff4d4d",2.5,4.74341649025257,10,10,"Others",47.3,27.2
+"2","Babesia microti",5,5,FALSE,"Eukaryote","Eukaryote","Detected in single species","","#1D75B5",0.5,2.12132034355964,11,11,"Rodentia",109.9,77.6
+"3","Bartonella kosoyi",2.2,2.2,FALSE,"Bacteria","Bacteria","Cross-order transmission","Bartonella kosoyi","#ff4d4d",2.5,4.74341649025257,12,12,"Others",43.64,30.32
+"4","Bartonella sp",4.16272154614749,3.37403672909687,FALSE,"Bacteria","Bacteria","Cross-genus transmission","","#EDAE92",1.5,3.67423461417477,13,13,"Rodentia",82.9,60.8
+"5","Beilong virus",4.91381923378349,3.94278475778109,FALSE,"RNA Virus","RNA Virus","Cross-genus transmission","","#EDAE92",1,3,14,14,"Rodentia",100.9,63.4
+"6","Betacoronavirus 1",3.79039399583748,2.21050387287065,FALSE,"RNA Virus","RNA Virus","Cross-genus transmission","","#EDAE92",2.5,4.74341649025257,15,15,"Rodentia",85.68,37.95
+"7","Brachylaima sp",3.4,1,FALSE,"Eukaryote","Eukaryote","Cross-order transmission","Brachylaima sp","#ff4d4d",1,3,16,16,"Others",36.28,36.66
+"8","Chilomastix sp",5.00405723243121,1.29417399742291,FALSE,"Eukaryote","Eukaryote","Cross-genus transmission","","#EDAE92",1,3,17,17,"Rodentia",108.34,24.9
+"9","Chlamydia muridarum",2.4,2,FALSE,"Bacteria","Bacteria","Cross-order transmission","Chlamydia muridarum","#ff4d4d",2.5,4.74341649025257,18,18,"Others",51,24
+"10","Collinsella aerofaciens",2.36362399566709,3.94485152711992,FALSE,"Bacteria","Bacteria","Cross-species transmission","","#A4C8D9",1,3,19,19,"Rodentia",61.1,63
+"11","Cryptosporidium ubiquitum",4.87731768122226,2.99352003870048,FALSE,"Eukaryote","Eukaryote","Cross-genus transmission","","#EDAE92",2,4.24264068711929,20,20,"Rodentia",101,51.8
+"12","Deer mastadenovirus B",2.01226035374749,2.60718966456633,FALSE,"DNA Virus","DNA Virus","Detected in single species","","#1D75B5",0.5,2.12132034355964,21,21,"Rodentia",51.38,35.52
+"13","Eimeria dispersa",0.283379159814018,0.750907213453532,FALSE,"Eukaryote","Eukaryote","Detected in single species","","#1D75B5",0.5,2.12132034355964,22,22,"Eulipoyphla",32.5,2.8
+"14","Eimeria falciformis",4.76460973780275,4.04315067401594,FALSE,"Eukaryote","Eukaryote","Cross-genus transmission","","#EDAE92",1,3,23,23,"Rodentia",96.2,67.4
+"15","Giardia sp1",4.30152018250196,3.07238562251918,FALSE,"Eukaryote","Eukaryote","Cross-genus transmission","","#EDAE92",2.5,4.74341649025257,24,24,"Rodentia",91,45.2
+"16","Giardia sp3",2.12516569330558,2.26270036026439,FALSE,"Eukaryote","Eukaryote","Detected in single species","","#1D75B5",0.5,2.12132034355964,25,25,"Rodentia",54.27,31.47
+"17","Guangdong Bandicota indica astrovirus",5.40483763486782,1.29676728764256,FALSE,"RNA Virus","RNA Virus","Detected in single species","","#1D75B5",0.5,2.12132034355964,26,26,"Rodentia",114.8,25.6
+"18","Guangdong dicipi-like virus",1.52268846172807,0,FALSE,"RNA Virus","RNA Virus","Detected in single species","","#1D75B5",0.5,2.12132034355964,27,27,"Eulipoyphla",40.8,0.5
+"19","Guangdong murine mastadenovirus 2",3.94619379389034,3.80590170030179,FALSE,"DNA Virus","DNA Virus","Cross-genus transmission","","#EDAE92",1.5,3.67423461417477,28,28,"Rodentia",87,60
+"20","Guangdong Rattus norvegicus arterivirus virus",3.07356873194798,4.83364845708669,FALSE,"RNA Virus","RNA Virus","Detected in single species","","#1D75B5",0.5,2.12132034355964,30,30,"Rodentia",72.8,79.03
+"21","Guangdong Rattus norvegicus arterivirus virus 2",3.9569018521461,4.91264379225134,FALSE,"RNA Virus","RNA Virus","Detected in single species","","#1D75B5",0.5,2.12132034355964,29,29,"Rodentia",84.7,79.35
+"22","Guangdong rodent arterivirus 1",6,2.65055917146597,FALSE,"RNA Virus","RNA Virus","Detected in single species","","#1D75B5",0.5,2.12132034355964,31,31,"Rodentia",121.7,35.5
+"23","Guangdong rodent arterivirus 2",2.53926658298475,3.78783395325051,FALSE,"RNA Virus","RNA Virus","Cross-species transmission","","#A4C8D9",1,3,32,32,"Rodentia",54.61,56.41
+"24","Guangdong rodent dependoparvovirus 1",3,1.4,FALSE,"DNA Virus","DNA Virus","Cross-order transmission","Guangdong rodent dependoparvovirus 1","#ff4d4d",2,4.24264068711929,33,33,"Others",54.69,20.31
+"25","Guangdong rodent dependoparvovirus 2",1.99202138545235,2.98864889549517,FALSE,"DNA Virus","DNA Virus","Detected in single species","","#1D75B5",0.5,2.12132034355964,34,34,"Rodentia",48.97,47
+"26","Guangdong rodent dependoparvovirus 3",2.05328131500859,3.34232448961755,FALSE,"DNA Virus","DNA Virus","Detected in single species","","#1D75B5",0.5,2.12132034355964,35,35,"Rodentia",49.46,40.58
+"27","Guangdong rodent dependoparvovirus 4",5.85212327121622,1.96253149729767,FALSE,"DNA Virus","DNA Virus","Detected in single species","","#1D75B5",0.5,2.12132034355964,36,36,"Rodentia",123,40.5
+"28","Guangdong rodent mastadenovirus 1",4.21000025831087,3.6235904402366,FALSE,"DNA Virus","DNA Virus","Cross-genus transmission","","#EDAE92",1.5,3.67423461417477,37,37,"Rodentia",78.4,60.5
+"29","Guangdong rodent orbivirus",5.05325320836945,3.64694790928614,FALSE,"RNA Virus","RNA Virus","Cross-genus transmission","","#EDAE92",1,3,38,38,"Rodentia",106.8,57.4
+"30","Guangdong rodent picorna-like virus 14",5.96055509447403,2.30962629121835,FALSE,"RNA Virus","RNA Virus","Detected in single species","","#1D75B5",0.5,2.12132034355964,39,39,"Rodentia",123,46.4
+"31","Guangdong rosa-like virus",2.8,1.6,FALSE,"RNA Virus","RNA Virus","Cross-order transmission","Guangdong rosa-like virus","#ff4d4d",2,4.24264068711929,40,40,"Others",39.96,34.01
+"32","Hepatozoon sp",3.00553703147643,2.08373325285139,FALSE,"Eukaryote","Eukaryote","Cross-species transmission","","#A4C8D9",1,3,41,41,"Rodentia",71.63,31.62
+"33","Hunnivirus A",3.79930524408561,2.95239495654388,FALSE,"RNA Virus","RNA Virus","Cross-genus transmission","","#EDAE92",2,4.24264068711929,42,42,"Rodentia",80,49.6
+"34","Hypotrichomonas",5.43424822371398,2.23267501083656,FALSE,"Eukaryote","Eukaryote","Cross-genus transmission","","#EDAE92",1,3,43,43,"Rodentia",115.5,37.4
+"35","Klebsiella variicola",3.2,1.2,FALSE,"Bacteria","Bacteria","Cross-order transmission","Klebsiella variicola","#ff4d4d",1.5,3.67423461417477,44,44,"Others",58.37,17.67
+"36","Mischivirus E",1.8,2.6,FALSE,"RNA Virus","RNA Virus","Cross-order transmission","Mischivirus E","#ff4d4d",1,3,45,45,"Others",32.6,40.3
+"37","Monocercomonoides",3.64219916802914,1.4568854021278,FALSE,"Eukaryote","Eukaryote","Cross-genus transmission","","#EDAE92",1,3,46,46,"Rodentia",89.7,25.6
+"38","Murine kobuvirus",3.8972842990686,3.49920879474662,FALSE,"RNA Virus","RNA Virus","Cross-genus transmission","","#EDAE92",2,4.24264068711929,47,47,"Rodentia",83.4,56.2
+"39","Nippostrongylus brasiliensis",3.41887503674466,2.93989702744318,FALSE,"Eukaryote","Eukaryote","Cross-genus transmission","","#EDAE92",2.5,4.74341649025257,48,48,"Rodentia",76.7,45.74
+"40","Norwalk virus",3.97375605292658,1.71836514341851,FALSE,"RNA Virus","RNA Virus","Cross-genus transmission","","#EDAE92",1.5,3.67423461417477,49,49,"Rodentia",87.9,29.3
+"41","Norway rat pestivirus",2.53174493069867,4.13222658975657,FALSE,"RNA Virus","RNA Virus","Cross-species transmission","","#A4C8D9",1,3,50,50,"Rodentia",63.34,66.6
+"42","Orthohantavirus seoulense",3.64414029972302,3.81330147020874,FALSE,"RNA Virus","RNA Virus","Cross-genus transmission","","#EDAE92",1.5,3.67423461417477,51,51,"Rodentia",91,52.7
+"43","Oxyurida sp",2.02660331194969,2.738307797806,FALSE,"Eukaryote","Eukaryote","Cross-species transmission","","#A4C8D9",1,3,52,52,"Rodentia",49.08,44.8
+"44","Parabovirus A",3.92558555955003,1.46742903411904,FALSE,"RNA Virus","RNA Virus","Cross-genus transmission","","#EDAE92",1,3,53,53,"Rodentia",83.9,25
+"45","Pneumocystis carinii",2.76445565236959,4.24500787191447,FALSE,"Eukaryote","Eukaryote","Cross-species transmission","","#A4C8D9",1,3,54,54,"Rodentia",54.26,62.4
+"46","Pneumocystis murina",5.21500347939867,3.47017221643241,FALSE,"Eukaryote","Eukaryote","Cross-genus transmission","","#EDAE92",1,3,55,55,"Rodentia",99.3,66.7
+"47","Pneumocystis sus",-0.0203356150626401,1.19012402956356,FALSE,"Eukaryote","Eukaryote","Detected in single species","","#1D75B5",0.5,2.12132034355964,56,56,"Eulipoyphla",17.9,13.3
+"48","Pneumocystis wakefieldiae",4.89557858169924,2.63594907233533,FALSE,"Eukaryote","Eukaryote","Cross-genus transmission","","#EDAE92",2,4.24264068711929,57,57,"Rodentia",102.4,46.2
+"49","Porcine bocavirus",3.6,0.8,FALSE,"DNA Virus","DNA Virus","Cross-order transmission","Porcine bocavirus","#ff4d4d",3.5,5.61248608016091,58,58,"Others",65.73,10.82
+"50","Rabovirus A",4.81531462929541,3.44190597688727,FALSE,"RNA Virus","RNA Virus","Cross-genus transmission","","#EDAE92",1.5,3.67423461417477,59,59,"Rodentia",100,57.9
+"51","Raillietina sp",2.98872770139616,4.20523698211726,FALSE,"Eukaryote","Eukaryote","Cross-species transmission","","#A4C8D9",1,3,60,60,"Rodentia",52.4,58.41
+"52","Rat hepatitis E virus",4.2323831636736,1.74810775847538,FALSE,"RNA Virus","RNA Virus","Cross-genus transmission","","#EDAE92",2,4.24264068711929,61,61,"Rodentia",93.1,31.5
+"53","Rat minute virus 2a",2,2.4,FALSE,"DNA Virus","DNA Virus","Cross-order transmission","Rat minute virus 2a","#ff4d4d",4,6,62,62,"Others",62,14
+"54","Rat parvovirus 1",3.82959744722458,4.48774475079316,FALSE,"DNA Virus","DNA Virus","Cross-species transmission","","#A4C8D9",1,3,63,63,"Rodentia",77.6,71.6
+"55","Rat parvovirus 2",2.33754128309828,3.68580029794376,FALSE,"DNA Virus","DNA Virus","Cross-species transmission","","#A4C8D9",1,3,64,64,"Rodentia",57.33,59.4
+"56","Rodent astrovirus 1",4.05301885114265,2.95467242034396,FALSE,"RNA Virus","RNA Virus","Cross-genus transmission","","#EDAE92",2.5,4.74341649025257,65,65,"Rodentia",86.9,50.2
+"57","Rodent astrovirus 2",3.63221614219616,4.92540434410531,FALSE,"RNA Virus","RNA Virus","Detected in single species","","#1D75B5",0.5,2.12132034355964,66,66,"Rodentia",78.6,79.73
+"58","Rodent astrovirus 3",3.55871725081031,3.10317593326211,FALSE,"RNA Virus","RNA Virus","Cross-genus transmission","","#EDAE92",2.5,4.74341649025257,67,67,"Rodentia",73.92,51.92
+"59","Rodent coronavirus",5.10201811972241,3.81404934153996,FALSE,"RNA Virus","RNA Virus","Cross-genus transmission","","#EDAE92",1,3,68,68,"Rodentia",105.8,61.1
+"60","Rodent pegivirus",2.75631892996948,3.99531860670094,FALSE,"RNA Virus","RNA Virus","Cross-species transmission","","#A4C8D9",1,3,69,69,"Rodentia",58.05,65.9
+"61","Spironucleus sp",5.68529155728914,1.64432038840141,FALSE,"Eukaryote","Eukaryote","Detected in single species","","#1D75B5",0.5,2.12132034355964,70,70,"Rodentia",118.6,30
+"62","Spironucleus sp2",3.35013558174818,4.88840943048125,FALSE,"Eukaryote","Eukaryote","Detected in single species","","#1D75B5",0.5,2.12132034355964,71,71,"Rodentia",63,75.63
+"63","Spironucleus sp3",4.27432956433024,4.83108725312881,FALSE,"Eukaryote","Eukaryote","Detected in single species","","#1D75B5",0.5,2.12132034355964,72,72,"Rodentia",67.9,77.2
+"64","Spironucleus sp4",5.20707797442678,3.24952404380724,FALSE,"Eukaryote","Eukaryote","Cross-genus transmission","","#EDAE92",1,3,73,73,"Rodentia",103.46,64.63
+"65","Spironucleus sp5",5.25743495574054,1.60970958180001,FALSE,"Eukaryote","Eukaryote","Cross-genus transmission","","#EDAE92",1,3,74,74,"Rodentia",109.8,33.4
+"66","Strongyloides ratti",4.29949243591988,2.81890585863626,FALSE,"Eukaryote","Eukaryote","Cross-genus transmission","","#EDAE92",2.5,4.74341649025257,75,75,"Rodentia",86.5,46.3
+"67","Strongyloides stercoralis",0.663473002955911,0.399933318769789,FALSE,"Eukaryote","Eukaryote","Detected in single species","","#1D75B5",0.5,2.12132034355964,76,76,"Eulipoyphla",49,-1.3
+"68","Strongyloides venezuelensis",4.27758752473044,4.11416143680774,FALSE,"Eukaryote","Eukaryote","Cross-species transmission","","#A4C8D9",1.5,3.67423461417477,77,77,"Rodentia",86,67.8
+"69","Tritrichomonas sp",3.62169055651305,2.37424875843445,FALSE,"Eukaryote","Eukaryote","Cross-genus transmission","","#EDAE92",3,5.19615242270663,78,78,"Rodentia",81.6,37.17
+"70","Trypanosoma lewis",2.97264432846624,3.39515077254925,FALSE,"Eukaryote","Eukaryote","Cross-species transmission","","#A4C8D9",2,4.24264068711929,79,79,"Rodentia",65.21,52.62
+"71","Wenzhou Apodemus agrarius hepacivirus 1",1.08705602742323,0.152815085700475,FALSE,"RNA Virus","RNA Virus","Detected in single species","","#1D75B5",0.5,2.12132034355964,80,80,"Eulipoyphla",24.6,7.8
+"72","Wnezhou virus",4.18244571007751,2.49020532158891,FALSE,"RNA Virus","RNA Virus","Cross-genus transmission","","#EDAE92",2,4.24264068711929,81,81,"Rodentia",88.6,54

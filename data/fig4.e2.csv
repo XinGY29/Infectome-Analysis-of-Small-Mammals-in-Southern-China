@@ -1,0 +1,11 @@
+"","x","key","value"
+"1","RNA Virus","RNA.Virus",1
+"5","RNA Virus","Eukaryote",1
+"6","Eukaryote","Eukaryote",1
+"9","RNA Virus","DNA.Virus",0.134053336839715
+"10","Eukaryote","DNA.Virus",0.11705328810592
+"11","DNA Virus","DNA.Virus",1
+"13","RNA Virus","Bacteria",0.018105434609884
+"14","Eukaryote","Bacteria",0.0151155770225979
+"15","DNA Virus","Bacteria",0.299450549450549
+"16","Bacteria","Bacteria",1

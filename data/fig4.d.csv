@@ -1,0 +1,16 @@
+"","Pathogens","Type","Num"
+"1","RNA Virus","Cross-genus transmission",14
+"2","DNA Virus","Cross-genus transmission",2
+"3","Bacteria","Cross-genus transmission",1
+"4","Eukaryote","Cross-genus transmission",13
+"5","RNA Virus","Cross-order transmission",2
+"6","DNA Virus","Cross-order transmission",3
+"7","Bacteria","Cross-order transmission",3
+"8","Eukaryote","Cross-order transmission",2
+"9","RNA Virus","Cross-species transmission",3
+"10","DNA Virus","Cross-species transmission",2
+"11","Bacteria","Cross-species transmission",1
+"12","Eukaryote","Cross-species transmission",6
+"13","RNA Virus","Detected in Single Species",8
+"14","DNA Virus","Detected in Single Species",4
+"15","Eukaryote","Detected in Single Species",8

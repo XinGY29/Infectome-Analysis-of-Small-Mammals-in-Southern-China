@@ -1,0 +1,77 @@
+"","species","Freq","Samples","Positive_Rate","family","Type","meanrpm"
+"24","Guangdong rodent arterivirus 1",58,634,9.14826498422713,"Arteriviridae","RNA Virus",2220.17022370345
+"17","Guangdong Bandicota indica arterivirus virus",1,634,0.157728706624606,"Arteriviridae","RNA Virus",1017.11
+"25","Guangdong rodent arterivirus 2",13,634,2.05047318611987,"Arteriviridae","RNA Virus",557.85886
+"23","Guangdong Rattus norvegicus arterivirus virus 2",8,634,1.26182965299685,"Arteriviridae","RNA Virus",98.6413825375
+"22","Guangdong Rattus norvegicus arterivirus virus",5,634,0.788643533123028,"Arteriviridae","RNA Virus",31.932936
+"56","Rat hepatitis E virus",57,634,8.99053627760252,"Hepeviridae","RNA Virus",136.123176836842
+"76","Wnezhou virus",55,634,8.67507886435331,"Arenaviridae","RNA Virus",4546.73238729273
+"60","Rodent astrovirus 1",18,634,2.8391167192429,"Astroviridae","RNA Virus",9185.46670946667
+"18","Guangdong Bandicota indica astrovirus",4,634,0.630914826498423,"Astroviridae","RNA Virus",1531.90086775
+"61","Rodent astrovirus 2",5,634,0.788643533123028,"Astroviridae","RNA Virus",1056.4060236
+"62","Rodent astrovirus 3",51,634,8.04416403785489,"Astroviridae","RNA Virus",334.654867227451
+"6","Betacoronavirus 1",31,634,4.88958990536278,"Coronaviridae","RNA Virus",4503.77954226129
+"63","Rodent coronavirus",3,634,0.473186119873817,"Coronaviridae","RNA Virus",118.8682981
+"44","Norway rat pestivirus",27,634,4.25867507886435,"Flaviviridae","RNA Virus",87.8117896777778
+"64","Rodent pegivirus",15,634,2.36593059936909,"Flaviviridae","RNA Virus",47.4485950333333
+"75","Wenzhou Apodemus agrarius hepacivirus 1",23,634,3.62776025236593,"Flaviviridae","RNA Virus",26.9556063043478
+"39","Mischivirus E",26,634,4.10094637223975,"Picornaviridae","RNA Virus",2259.81451063846
+"33","Guangdong rodent picorna-like virus 14",3,634,0.473186119873817,"Picornaviridae","RNA Virus",1426.94219333333
+"21","Guangdong parechovirus",1,634,0.157728706624606,"Picornaviridae","RNA Virus",379.553
+"54","Rabovirus A",4,634,0.630914826498423,"Picornaviridae","RNA Virus",296.18265
+"19","Guangdong dicipi-like virus",5,634,0.788643533123028,"Picornaviridae","RNA Virus",178.1992347
+"47","Parabovirus A",10,634,1.57728706624606,"Picornaviridae","RNA Virus",120.9614639
+"41","Murine kobuvirus",19,634,2.99684542586751,"Picornaviridae","RNA Virus",77.1401100736842
+"36","Hunnivirus A",12,634,1.89274447949527,"Picornaviridae","RNA Virus",71.9126716916667
+"34","Guangdong rosa-like virus",8,634,1.26182965299685,"Picornaviridae","RNA Virus",25.6211839
+"45","Orthohantavirus seoulense",22,634,3.47003154574132,"Hantaviridae","RNA Virus",454.596009090909
+"5","Beilong virus",9,634,1.41955835962145,"Paramyxoviridae","RNA Virus",63.5306754333333
+"32","Guangdong rodent orbivirus",7,634,1.10410094637224,"Sedoreoviridae","RNA Virus",150.448676857143
+"43","Norwalk virus",5,634,0.788643533123028,"Caliciviridae","RNA Virus",57.83652
+"57","Rat minute virus 2a",158,634,24.9211356466877,"Parvoviridae","DNA Virus",13754.2697964022
+"53","Porcine bocavirus",35,634,5.5205047318612,"Parvoviridae","DNA Virus",2696.20832219714
+"26","Guangdong rodent chaphamaparvovirus 3",1,634,0.157728706624606,"Parvoviridae","DNA Virus",214.982
+"30","Guangdong rodent dependoparvovirus 4",8,634,1.26182965299685,"Parvoviridae","DNA Virus",212.93890075
+"28","Guangdong rodent dependoparvovirus 2",1,634,0.157728706624606,"Parvoviridae","DNA Virus",182.07878
+"29","Guangdong rodent dependoparvovirus 3",1,634,0.157728706624606,"Parvoviridae","DNA Virus",65.0467
+"59","Rat parvovirus 2",2,634,0.315457413249211,"Parvoviridae","DNA Virus",60.06675
+"27","Guangdong rodent dependoparvovirus 1",16,634,2.52365930599369,"Parvoviridae","DNA Virus",36.714388625
+"58","Rat parvovirus 1",2,634,0.315457413249211,"Parvoviridae","DNA Virus",7.3467035
+"12","Deer mastadenovirus B",2,634,0.315457413249211,"Adenoviridae","DNA Virus",68.33661
+"31","Guangdong rodent mastadenovirus 1",7,634,1.10410094637224,"Adenoviridae","DNA Virus",31.4717498571429
+"20","Guangdong murine mastadenovirus 2",9,634,1.41955835962145,"Adenoviridae","DNA Virus",22.9526127777778
+"3","Bartonella kosoyi",26,634,4.10094637223975,"Bartonellaceae","Bacteria",879.464865384615
+"4","Bartonella sp",12,634,1.89274447949527,"Bartonellaceae","Bacteria",223.023658333333
+"9","Chlamydia muridarum",15,634,2.36593059936909,"Chlamydiaceae","Bacteria",245.56688
+"38","Klebsiella variicola",10,634,1.57728706624606,"Enterobacteriaceae","Bacteria",2085.12963
+"10","Collinsella aerofaciens",6,634,0.946372239747634,"Coriobacteriaceae","Bacteria",555.083666666667
+"49","Pneumocystis carinii",22,634,3.47003154574132,"Pneumocystaceae","Eukaryote",22.3237110454545
+"52","Pneumocystis wakefieldiae",54,634,8.51735015772871,"Pneumocystaceae","Eukaryote",20.9099757009259
+"50","Pneumocystis murina",7,634,1.10410094637224,"Pneumocystaceae","Eukaryote",5.73394428571429
+"51","Pneumocystis sus",3,634,0.473186119873817,"Pneumocystaceae","Eukaryote",3.10341933333333
+"1","Angiostrongylus cantonensis",48,634,7.57097791798107,"Ancylostomatidae","Eukaryote",376.693136235417
+"42","Nippostrongylus brasiliensis",25,634,3.94321766561514,"Ancylostomatidae","Eukaryote",3.253299064
+"73","Tritrichomonas sp",34,634,5.36277602523659,"Tritrichomonadidae","Eukaryote",57.6713732676471
+"74","Trypanosoma lewis",28,634,4.41640378548896,"Trypanosomatidae","Eukaryote",15.5853000821429
+"72","Strongyloides venezuelensis",12,634,1.89274447949527,"Strongyloididae","Eukaryote",5.71181596666667
+"71","Strongyloides stercoralis",10,634,1.57728706624606,"Strongyloididae","Eukaryote",4.38878829
+"70","Strongyloides ratti",20,634,3.15457413249211,"Strongyloididae","Eukaryote",1.820124215
+"16","Giardia sp3",3,634,0.473186119873817,"Hexamitidae","Eukaryote",28.2332836666667
+"65","Spironucleus sp",4,634,0.630914826498423,"Hexamitidae","Eukaryote",17.4582305
+"15","Giardia sp1",17,634,2.6813880126183,"Hexamitidae","Eukaryote",13.1742262411765
+"67","Spironucleus sp3",1,634,0.157728706624606,"Hexamitidae","Eukaryote",6.10449
+"69","Spironucleus sp5",2,634,0.315457413249211,"Hexamitidae","Eukaryote",5.51254
+"68","Spironucleus sp4",2,634,0.315457413249211,"Hexamitidae","Eukaryote",5.467355
+"66","Spironucleus sp2",1,634,0.157728706624606,"Hexamitidae","Eukaryote",4.56305
+"11","Cryptosporidium ubiquitum",9,634,1.41955835962145,"Cryptosporidiidae","Eukaryote",4.45552525555556
+"13","Eimeria dispersa",3,634,0.473186119873817,"Eimeriidae","Eukaryote",16.38288
+"14","Eimeria falciformis",9,634,1.41955835962145,"Eimeriidae","Eukaryote",2.64684322222222
+"7","Brachylaima sp",8,634,1.26182965299685,"Brachylaimidae","Eukaryote",11.7778440125
+"35","Hepatozoon sp",7,634,1.10410094637224,"Hepatozoidae","Eukaryote",19.3762025
+"46","Oxyurida sp",6,634,0.946372239747634,"Oxyuridae","Eukaryote",39.9111248333333
+"37","Hypotrichomonas",5,634,0.788643533123028,"Hypotrichomonadidae","Eukaryote",5.44352
+"8","Chilomastix sp",2,634,0.315457413249211,"Retortamonadidae","Eukaryote",4.976135
+"40","Monocercomonoides",2,634,0.315457413249211,"Oxymonadida_Unclassified","Eukaryote",26.5354425
+"55","Raillietina sp",2,634,0.315457413249211,"Davaineidae","Eukaryote",41.08202
+"2","Babesia microti",1,634,0.157728706624606,"Babesiidae","Eukaryote",11.13032
+"48","Plagiorchis multiglandularis",1,634,0.157728706624606,"Schistosomatidae","Eukaryote",470.892

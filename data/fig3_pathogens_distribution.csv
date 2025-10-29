@@ -1,0 +1,13 @@
+"","Tissue","Type","Num"
+"1","Gut","RNA Virus",27
+"2","Lung","RNA Virus",17
+"3","Spleen","RNA Virus",15
+"4","Gut","DNA Virus",10
+"5","Lung","DNA Virus",7
+"6","Spleen","DNA Virus",6
+"7","Gut","Bacteria",4
+"8","Lung","Bacteria",3
+"9","Spleen","Bacteria",2
+"10","Gut","Eukaryote",24
+"11","Lung","Eukaryote",11
+"12","Spleen","Eukaryote",2
